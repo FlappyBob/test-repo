@@ -1,3 +1,4 @@
+mv ../vite-project/dist .
 del -r ./dist 
 
 git add .
