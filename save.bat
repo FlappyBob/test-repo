@@ -1,4 +1,4 @@
-copy -r ../vite-project/dist ./
+copy -r ../vite-project/dist .
 
 git add .
 git commit -m "fast save"
