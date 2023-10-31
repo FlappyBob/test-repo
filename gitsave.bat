@@ -1,4 +1,4 @@
-del -r dist 
+del -r ./dist 
 
 git add .
 git commit -m "fast save"
