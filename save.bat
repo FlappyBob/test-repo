@@ -1,5 +1,4 @@
-copy -r ../vite-project/dist .
-
-git add .
-git commit -m "fast save"
-git push -u origin master
+cd ../vite-project 
+npm run build
+copy -r dist ../part2
+cd ../part2
